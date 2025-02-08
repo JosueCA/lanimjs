@@ -18,6 +18,8 @@ See [lanimjs]/lib/examples for some captures of the application.
 
 The AppImage should be created in "dist/lanimjs-x.y.z.AppImage" 
 
+# Build AppImage with Docker  
+* See 'docker' directory in this respository  
 
 # Licenses 
 
