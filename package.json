@@ -1,6 +1,6 @@
 {
   "name": "lanimjs",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Application made with web technologies that runs integrated terminals",
   "main": "index.js",
   "engines": {
